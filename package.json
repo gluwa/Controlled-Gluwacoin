@@ -1,0 +1,39 @@
+{
+  "name": "controlled-gluwacoin",
+  "version": "1.0.0",
+  "description": "Gluwacoin with a currency board",
+  "main": "index.js",
+  "dependencies": {
+    "@openzeppelin/cli": "^2.8.2",
+    "@openzeppelin/contracts-ethereum-package": "^3.0.0"
+  },
+  "devDependencies": {
+    "@openzeppelin/test-environment": "^0.1.6",
+    "@openzeppelin/test-helpers": "^0.5.7",
+    "chai": "^4.2.0",
+    "mocha": "^8.2.0"
+  },
+  "scripts": {
+    "test": "oz compile && mocha --exit --recursive test --timeout 5000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gluwa/Controlled-Gluwacoin.git"
+  },
+  "keywords": [
+    "Gluwa",
+    "Gluwacoin",
+    "ERC-20",
+    "Blockchain",
+    "Cryptocurrency",
+    "Ethereum",
+    "Smart",
+    "Contract"
+  ],
+  "author": "Gluwa, Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gluwa/Controlled-Gluwacoin/issues"
+  },
+  "homepage": "https://github.com/gluwa/Controlled-Gluwacoin#readme"
+}
