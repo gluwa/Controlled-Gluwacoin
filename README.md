@@ -2,7 +2,9 @@
 
 # Controlled Gluwacoin
 
-Gluwacoin with a currency board
+Gluwacoin controlled by a [currency board](https://en.wikipedia.org/wiki/Currency_board).
+
+Read [Controlled Gluwacoin](Controlled%20Gluwacoin.md) for details.
 
 ## What is Gluwacoin?
 
@@ -12,11 +14,7 @@ The Gluwacoin Trust proposed the standard. This repository is the official imple
 
 For more information, see [Gluwacoin](/Gluwacoin.md), [gluwacoin.com](https://gluwacoin.com), or the [original whitepaper](https://gluwacoin.com/white-paper).
 
-## Controlled Gluwacoin
-
-Gluwacoin controlled by a [currency board](https://en.wikipedia.org/wiki/Currency_board).
-
-Read [Controlled Gluwacoin](Controlled%20Gluwacoin.md) for details.
+---
 
 ## Setup
 
